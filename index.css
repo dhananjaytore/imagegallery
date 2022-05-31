@@ -1,0 +1,60 @@
+h1{
+    font-size: 60px;
+    text-align: left;
+    color: whitesmoke;
+    font-style: normal;
+    background-color: purple;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+header{
+    background-image: -webkit-linear-gradient(red,pink);
+}
+main{
+    background-color: azure;
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  #cars{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  #food{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  #nature{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  
+  
+  
+  
